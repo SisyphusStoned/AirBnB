@@ -13,3 +13,4 @@
 -- | Beverly                |
 
 
+Select distinct neighborhood from listings
